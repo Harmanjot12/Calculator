@@ -1,0 +1,30 @@
+input {
+  width: 37.5%;
+  margin-left:31%;
+  padding: 12px 10px;
+  box-sizing: border-box;
+  border: 2px solid  lightblue;
+  border-radius: 1px;
+  background-color:white;
+  font-size:35px;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  }
+
+button {
+  padding: 10px;
+  background: transparent;
+  text-shadow: 1px 1px 1px #202020;
+  font-family: "Lato", sans-serif;
+  font-size: 30px;
+  border: 1px solid lightblue;
+  color: lightblue;
+  height:150px;
+  width: 150px;
+}
+
+
